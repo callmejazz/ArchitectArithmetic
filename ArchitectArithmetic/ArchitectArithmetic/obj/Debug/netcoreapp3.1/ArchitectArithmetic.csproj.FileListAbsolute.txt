@@ -1,0 +1,13 @@
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.exe
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.deps.json
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.runtimeconfig.json
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.runtimeconfig.dev.json
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.dll
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.pdb
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.csprojAssemblyReference.cache
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.AssemblyInfoInputs.cache
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.AssemblyInfo.cs
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.dll
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.pdb
+C:\Users\jmead\OneDrive\Documents\GitHub\ArchitectArithmetic\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.genruntimeconfig.cache
